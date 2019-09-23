@@ -2,13 +2,13 @@
 
 > **FriendFinder**
 
-This is a friend finding app that Allows you to find friends if you are lonely.
+- [x]This is a friend finding app that Allows you to find friends if you are lonely.
 
-You will need your name.
+- [x] You will need your name.
 
-An image link to your picture.
+- [x] An image link to your picture.
 
-Answer questions then summit.
+- [x] Answer questions then summit.
 
 
 heroku link:
